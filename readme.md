@@ -61,10 +61,6 @@ O projeto segue as boas práticas de **Clean Code** e os princípios **SOLID** p
 - **Interface Segregation Principle (ISP)**: Interfaces específicas e enxutas.
 - **Dependency Inversion Principle (DIP)**: Uso de injeção de dependências para desacoplamento de classes.
 
-## Como Rodar o Projeto
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/gutodidonato/ecosaveAPI.git
+## OBS
 
 rota do swagger: http://localhost:5016
