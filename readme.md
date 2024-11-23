@@ -16,7 +16,7 @@ A solução EcoSave é organizada da seguinte forma:
   - **ConsumoController**: Gerencia os dados de consumo de energia.
   - **DispositivoController**: Controla os dispositivos conectados para monitoramento.
   - **EnderecoController**: Trata os dados de localização e endereços.
-  - **PontosComodosController**: Gerencia os pontos de energia nos cômodos.
+  - **PontosComodosController**: Gerencia os pontos para o usuário.
   - **UsuarioController**: Gerencia os usuários, media do consumo do usuário e uso de ia para avaliação do gasto do usuário comparado com a média brasileira de gasto.
 
 - **Data**: Contém a configuração do banco de dados e o contexto de acesso a dados, utilizando o Entity Framework para interação com o banco.
